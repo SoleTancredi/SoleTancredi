@@ -6,7 +6,7 @@
 - 📚 Current Stack: **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
         alt="java" width="30" height="30" /> Java - <img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/angular.jpg" height="20"> Angular** 
 - 📫 How to reach me: [tancredi620@gmail.com](mailto:tancredi620@gmail.com)
-- ⚡ Fun fact: I am currently rediscovering the front end, with the help of Angular, which joined my stack of technologies after having developed a fullstack project together with other developers.
+- ⚡ Fun fact: I'm currently re-exploring front-end development with the help of Angular, which I've added to my technology stack following my experience developing a full-stack project with other developers.
 
 <h3 align="left">Tools:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
         alt="spring" width="50" height="50" /></code>
   <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/spring-boot.png" height="30"></code>
   <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/hibernate.png" height="50"></code>
-  <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/maven.png" height="30"></code>
+  <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/maven.png" height="20"></code>
   
 ##### Database:
   <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/mysql1.png" height="30"></code>
@@ -37,7 +37,7 @@
  <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/css.png" height="30"></code>
  <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/bt.jpg" height="30"></code>
  
-##### Dev-Ops:
+##### Versioning:
 <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/git.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/github.png" height="30"></code>
         
