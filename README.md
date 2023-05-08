@@ -1,4 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/Hi.gif" width="40px" /> , I'm Sole! 👩‍💻 Welcome to my Github! </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/Hi.gif" width="40px" /> , I'm Sole! 
+        👩‍💻 Welcome to my Github! </h1>
 
 <h3 align="center">✨A passionate software developer✨.</h3>
 
