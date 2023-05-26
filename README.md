@@ -3,7 +3,7 @@
 
 <h3 align="center">✨A passionate software developer✨.</h3>
 
-- 👩‍💻 I’m currently working in the [No Country](https://www.nocountry.tech/) organisation where I hone my soft and technical skills on each project.
+- 👩‍💻 I’m currently looking for new challenges and further personal and professional growth.
 - 📚 Current Stack: **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"
         alt="java" width="30" height="30" /> Java - <img src="https://raw.githubusercontent.com/SoleTancredi/SoleTancredi/main/img/angular.jpg" height="20"> Angular** 
 - 📫 How to reach me: [tancredi620@gmail.com](mailto:tancredi620@gmail.com)
